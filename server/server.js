@@ -6,7 +6,6 @@ import punycode from 'punycode'; // Import the punycode library
 
 dotenv.config();
 
-console.log(process.env.OpenAI_API_KEY)
 
 const openai = new OpenAI({
     apiKey: process.env.OpenAI_API_KEY, // Replace with secure environment variable
