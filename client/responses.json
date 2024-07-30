@@ -1,0 +1,15 @@
+
+[
+    {
+        "prompt": "hello",
+        "response": "Hello! How can I assist you today?"
+    },
+    {
+        "prompt": "how are you",
+        "response": "I'm a bot, but I'm functioning as expected. How can I help you?"
+    },
+    {
+        "prompt": "bye",
+        "response": "Goodbye! Have a great day!"
+    }
+]
